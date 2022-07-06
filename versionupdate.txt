@@ -1,2 +1,3 @@
 WorkReporter
 Additional line added
+Second additional line added
