@@ -1,7 +1,1 @@
 Workreporter 1.0.0 https://github.com/santhoshcv/Workreporter/raw/main/Workreporter%20V1.0.0.zip
-Workreporter 1.0.1 https://github.com/santhoshcv/Workreporter/raw/main/Workreporter%20V1.0.1.zip
-Workreporter 1.0.2 https://github.com/santhoshcv/Workreporter/raw/main/Workreporter%20V1.0.2.zip
-Workreporter 1.0.3 https://github.com/santhoshcv/Workreporter/raw/main/Workreporter%20V1.0.3.zip
-Workreporter 1.0.4 https://github.com/santhoshcv/Workreporter/raw/main/Workreporter%20V1.0.4.zip
-Workreporter 1.0.5 https://github.com/santhoshcv/Workreporter/raw/main/Workreporter%20V1.0.5.zip
-Workreporter 1.0.6 https://github.com/santhoshcv/Workreporter/raw/main/Workreporter%20V1.0.6.zip
